@@ -77,16 +77,14 @@ Además, se proponen próximos pasos como:
 ---
 
 ## 📂 Estructura del repositorio
-├── files/
-│   ├── customer_flight_activity.csv
-│   ├── customer_loyalty_history.csv
-│   └── info_aerolinea.csv
-├── 1. README
-├── 2. eda_info_vuelos.ipynb
-├── 3. eda_info_loyalty.ipynb
-├── 4. limpieza_unions.ipynb
-├── 5. visualizacion_info_aerolinea.ipynb
-├── 6. conclusiones_y_next_steps.ipynb
-└── README.md
-
-
+- ├── files/
+- │   ├── customer_flight_activity.csv
+- │   ├── customer_loyalty_history.csv
+- │   └── info_aerolinea.csv
+- ├── 1. README
+- ├── 2. eda_info_vuelos.ipynb
+- ├── 3. eda_info_loyalty.ipynb
+- ├── 4. limpieza_unions.ipynb
+- ├── 5. visualizacion_info_aerolinea.ipynb
+- ├── 6. conclusiones_y_next_steps.ipynb
+- └── README.md
